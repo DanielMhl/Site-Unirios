@@ -9,7 +9,7 @@
 /* CABEÇALHO */
 
 #cabecalho {
-	background-image: linear-gradient(to right, #006699, #00AFEF);
+	background-image: linear-gradient(to right, #6bb44a, #03ce2f);
 }
 
 #cabecalho #logo {
@@ -20,7 +20,7 @@
 }
 
 #cabecalho #menu {
-	background-color: #000000;
+	background-color: #004aac;
 	text-align: center;
 }
 
